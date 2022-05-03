@@ -13,7 +13,7 @@ kkkkkk
 567798886556
 
 65878
-<<<<<<< HEAD
+
 ghjvj
 
 
@@ -22,4 +22,5 @@ ghjvj
 
 ghjvj
 
->>>>>>> d237c7a6b64ecc593793f206f9c42da2fcaed2cb
+
+ghjkjkjk
