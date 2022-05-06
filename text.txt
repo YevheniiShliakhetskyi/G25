@@ -1,6 +1,10 @@
 htg
 h-jhb mbhgi
 h\
+<<<<<<< HEAD
 dhf
 13245sdsd
 ввввв
+=======
+g
+>>>>>>> 2e82b47b5b570ae136aaa6217f7c036e000354ed
